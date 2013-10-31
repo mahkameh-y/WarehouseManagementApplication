@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE warehouses SYSTEM "config.dtd">         
+<warehouses>
+    <warehouse>
+        <name>w1</name>
+        <product>
+            <name>CD</name>
+            <initialcount>10</initialcount>
+            <minimumcount>5</minimumcount>
+        </product>
+        <product>
+            <name>DVD</name>
+            <initialcount>50</initialcount>
+            <minimumcount>10</minimumcount>
+        </product>
+    </warehouse>
+    <warehouse>
+        <name>w2</name>
+        <product>
+            <name>DISK</name>
+            <initialcount>11</initialcount>
+            <minimumcount>6</minimumcount>
+        </product>
+        <product>
+            <name>monitor</name>
+            <initialcount>11</initialcount>
+            <minimumcount>6</minimumcount>
+        </product>        
+    </warehouse>
+</warehouses>

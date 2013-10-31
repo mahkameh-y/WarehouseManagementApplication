@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE order SYSTEM "order.dtd" >
+<order>
+	<serial>222</serial>
+	<product>
+		<name>CD</name>
+		<count>5</count>
+	</product>	
+</order>

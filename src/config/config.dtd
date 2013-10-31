@@ -1,0 +1,8 @@
+<!ELEMENT warehouses ( warehouse+ ) >
+<!ELEMENT warehouse ( name, product+ ) >
+<!ELEMENT product ( name, initialcount, minimumcount, ?availablecount ) >
+<!ELEMENT name ( #PCDATA ) >
+<!ELEMENT minimumcount ( #PCDATA ) >
+<!ELEMENT initialcount ( #PCDATA ) >
+
+

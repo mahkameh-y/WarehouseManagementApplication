@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE order SYSTEM "order.dtd" >
+<order>
+	<serial>333</serial>
+	<product>
+		<name>DVD</name>
+		<count>5</count>
+	</product>
+	<product>
+		<name>DISK</name>
+		<count>4</count>
+	</product>
+    <product>
+		<name>monitor</name>
+		<count>7</count>
+	</product>
+</order>

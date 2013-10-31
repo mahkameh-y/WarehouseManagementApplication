@@ -1,0 +1,6 @@
+<!ELEMENT order (serial, product*) >
+<!ELEMENT serial (#PCDATA) >
+<!ELEMENT product (name, count) >
+<!ELEMENT name (#PCDATA) >
+<!ELEMENT count (#PCDATA) >
+
